@@ -42,3 +42,14 @@ body {
   z-index: -2;
   border-radius: 50%;
 }
+
+.circle {
+  background-color: #010f1c;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  border-radius: 50%;
+}
